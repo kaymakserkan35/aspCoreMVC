@@ -1,0 +1,6 @@
+﻿@model List<BookModel>;
+
+@foreach (var book in Model)
+{
+    <div>  @book.Title - @book.Price </div>
+}

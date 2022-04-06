@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html class="html">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="~/css/Bootstrap.css" rel="stylesheet" />
+    <link href="~/css/Index.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="signalr-demo">
+
+        <input type="button" value="Join Group" id="btnPrivateGroup" />
+
+        <div id="senderUId">@Context.Connection.Id</div>
+        <form id="messageform">
+            <input type="text" id="messagebox" />
+            <input type="button" value="Send Message" id="btnSend" />
+        </form>
+        <hr />
+        <ul id="messageList" style="text-align:left;"></ul>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/GroupChat.js"></script>
+
+</body>
+</html>

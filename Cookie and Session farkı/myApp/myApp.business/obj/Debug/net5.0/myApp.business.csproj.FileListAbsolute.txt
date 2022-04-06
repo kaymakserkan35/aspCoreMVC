@@ -1,0 +1,62 @@
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\bin\Debug\net5.0\myApp.business.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\bin\Debug\net5.0\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\bin\Debug\net5.0\ref\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\bin\Debug\net5.0\myApp.business.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\obj\Debug\net5.0\ref\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\bin\Debug\net5.0\myApp.business.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\bin\Debug\net5.0\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\bin\Debug\net5.0\ref\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\bin\Debug\net5.0\myApp.business.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\obj\Debug\net5.0\ref\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.business\obj\Debug\net5.0\myApp.business.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\bin\Debug\net5.0\myApp.business.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\bin\Debug\net5.0\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\bin\Debug\net5.0\ref\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\bin\Debug\net5.0\myApp.business.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\obj\Debug\net5.0\myApp.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\obj\Debug\net5.0\myApp.business.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\obj\Debug\net5.0\myApp.business.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\obj\Debug\net5.0\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\obj\Debug\net5.0\ref\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.business\obj\Debug\net5.0\myApp.business.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\obj\Debug\net5.0\myApp.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\obj\Debug\net5.0\myApp.business.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\obj\Debug\net5.0\myApp.business.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\obj\Debug\net5.0\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\obj\Debug\net5.0\ref\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\obj\Debug\net5.0\myApp.business.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\bin\Debug\net5.0\myApp.business.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\bin\Debug\net5.0\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\bin\Debug\net5.0\ref\myApp.business.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\bin\Debug\net5.0\myApp.business.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\obj\Debug\net5.0\myApp.business.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\bin\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.business\bin\Debug\net5.0\myApp.dataaccess.pdb

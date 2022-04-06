@@ -1,0 +1,175 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
+using ExcelProjesi.Data;
+using ExcelProjesi.Models;
+using Microsoft.AspNetCore.Identity;
+
+namespace ExcelProjesi.Controllers
+{
+    public class AppUsersController : Controller
+    {
+        private UserManager<AppUser> userManager;
+        private SignInManager<AppUser> signInManager;
+        private readonly ApplicationContext _context;
+
+        public AppUsersController(ApplicationContext context, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager)
+        {
+            _context = context;
+            this.userManager = userManager;
+            this.signInManager = signInManager;
+        }
+
+        public IActionResult Logout()
+        {
+            signInManager.SignOutAsync().Wait();
+            return RedirectToAction("Index");
+        }
+        public IActionResult Login()
+        {
+
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginModel loginModel)
+        {
+            var user = _context.AppUsers.Where(x => x.Email == loginModel.Email).FirstOrDefault();
+            await signInManager.SignInAsync(user, true, loginModel.Password);
+
+            return RedirectToAction("Index");
+        }
+
+        // GET: AppUsers
+        public async Task<IActionResult> Index()
+        {
+            return View(await _context.AppUsers.ToListAsync());
+        }
+
+        // GET: AppUsers/Details/5
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var appUser = await _context.AppUsers
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (appUser == null)
+            {
+                return NotFound();
+            }
+
+            return View(appUser);
+        }
+
+        // GET: AppUsers/Create
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: AppUsers/Create
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create([Bind("Id,UserName,Email,EmailConfirmed,PasswordHash")] AppUser appUser)
+        {
+            if (ModelState.IsValid)
+            {
+                await userManager.CreateAsync(appUser);
+            }
+            return View(appUser);
+        }
+
+        // GET: AppUsers/Edit/5
+        public async Task<IActionResult> Edit(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var appUser = await _context.AppUsers.FindAsync(id);
+            if (appUser == null)
+            {
+                return NotFound();
+            }
+            return View(appUser);
+        }
+
+        // POST: AppUsers/Edit/5
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, [Bind("Id,UserName,Email,EmailConfirmed,PasswordHash")] AppUser appUser)
+        {
+            if (id != appUser.Id)
+            {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(appUser);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!AppUserExists(appUser.Id))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+                return RedirectToAction(nameof(Index));
+            }
+            return View(appUser);
+        }
+
+        // GET: AppUsers/Delete/5
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var appUser = await _context.AppUsers
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (appUser == null)
+            {
+                return NotFound();
+            }
+
+            return View(appUser);
+        }
+
+        // POST: AppUsers/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            var appUser = await _context.AppUsers.FindAsync(id);
+            _context.AppUsers.Remove(appUser);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
+        private bool AppUserExists(int id)
+        {
+            return _context.AppUsers.Any(e => e.Id == id);
+        }
+    }
+}

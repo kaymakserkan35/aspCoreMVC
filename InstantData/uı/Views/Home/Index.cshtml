@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div id="mydiv" class="text-center">
+
+</div>
+
+@section Scripts {
+
+    <script src="~/lib/signalr/dist/browser/signalr.js"></script>
+    <script>
+        //   var data;
+        var sayac = 0;
+        var url = "https://localhost:44304/Books";
+        var connection = new signalR.HubConnectionBuilder().withUrl("/myhub").build();
+        function ConnnectToHub() {
+
+            this.connection.start().then(function () { });
+        }
+        const ClientToServer = function () {
+            this.connection.invoke("GetRequestFromApi_ServerMethod").catch(function (err) { }); // client to server
+        }
+        function GetDataFromApi(url) {
+            var data ;
+            console.log(sayac++);
+            var request = new XMLHttpRequest()
+            request.open('GET', url, true)
+            request.send();
+            request.onload = function () {
+                data = JSON.parse(this.response);
+                if (request.status >= 200 && request.status < 400) { console.log(data); }
+                else {
+                    console.log(`error ${request.status} ${request.statusText}`)
+                }
+            }
+        }
+        function ConsumeData(datalist) {
+            var data = GetDataFromApi();
+            console.log(data);
+        }
+        connection.on("GetRequestFromApi_ClientMethod", function () {
+            GetDataFromApi(url);
+        });
+        function serverToClient() {
+            this.connection.on("GetRequestFromApi_ClientMethod", function () { }); // server to client
+        }
+
+        /*document-ready*/
+        $(function () {
+            ConnnectToHub();
+        });
+
+    </script>
+
+
+}

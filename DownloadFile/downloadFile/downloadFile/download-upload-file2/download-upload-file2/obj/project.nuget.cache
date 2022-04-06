@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vPlscxAQw+Vy3QQoyxIgSfUiw1W7qhGH87+svhp50tO2cxlDOS9Q16iiOZ12f5Gfa4SrYnUS+ojSE1M/nnZKSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onurk\\OneDrive\\Desktop\\asp.coreMVC dersleri\\asp.coreMVC-dersleri\\DownloadFile\\downloadFile\\downloadFile\\download-upload-file2\\download-upload-file2\\download-upload-file2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onurk\\.nuget\\packages\\sharpziplib\\1.3.2\\sharpziplib.1.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<UserSecretsId>dotnet-FileCreateWorkerService-C7366B05-A817-40B6-95CE-81D9B7BB7C53</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="ClosedXML" Version="0.95.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\ExcelProjesi\ExcelProjesi.csproj" />
+	</ItemGroup>
+
+
+
+	
+</Project>

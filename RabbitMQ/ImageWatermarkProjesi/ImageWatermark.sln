@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.6.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageWatermark", "ImageWatermark\ImageWatermark\ImageWatermark.csproj", "{A1521B9C-0417-48C3-A084-ED8FFCC3945E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1521B9C-0417-48C3-A084-ED8FFCC3945E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1521B9C-0417-48C3-A084-ED8FFCC3945E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1521B9C-0417-48C3-A084-ED8FFCC3945E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1521B9C-0417-48C3-A084-ED8FFCC3945E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5764EFE9-F0A6-410F-B9F1-B37CFE4642AF}
+	EndGlobalSection
+EndGlobal

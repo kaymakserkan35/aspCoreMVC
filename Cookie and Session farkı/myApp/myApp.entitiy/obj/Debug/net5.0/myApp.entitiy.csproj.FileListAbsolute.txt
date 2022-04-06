@@ -1,0 +1,72 @@
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\bin\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\bin\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\bin\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\obj\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\bin\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\obj\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\bin\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\obj\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\bin\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\obj\Debug\net5.0\ref\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\Cookie and Session farkı\myApp\myApp.entitiy\obj\Debug\net5.0\myApp.entitiy.pdb

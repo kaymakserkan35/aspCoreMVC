@@ -1,0 +1,12 @@
+C:\Users\nyks.35\Desktop\InstantData\background\obj\Debug\net5.0\background.csprojAssemblyReference.cache
+C:\Users\nyks.35\Desktop\InstantData\background\obj\Debug\net5.0\background.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyks.35\Desktop\InstantData\background\obj\Debug\net5.0\background.AssemblyInfoInputs.cache
+C:\Users\nyks.35\Desktop\InstantData\background\obj\Debug\net5.0\background.AssemblyInfo.cs
+C:\Users\nyks.35\Desktop\InstantData\background\obj\Debug\net5.0\background.csproj.CoreCompileInputs.cache
+C:\Users\nyks.35\Desktop\InstantData\background\bin\Debug\net5.0\background.deps.json
+C:\Users\nyks.35\Desktop\InstantData\background\bin\Debug\net5.0\background.dll
+C:\Users\nyks.35\Desktop\InstantData\background\bin\Debug\net5.0\ref\background.dll
+C:\Users\nyks.35\Desktop\InstantData\background\bin\Debug\net5.0\background.pdb
+C:\Users\nyks.35\Desktop\InstantData\background\obj\Debug\net5.0\background.dll
+C:\Users\nyks.35\Desktop\InstantData\background\obj\Debug\net5.0\ref\background.dll
+C:\Users\nyks.35\Desktop\InstantData\background\obj\Debug\net5.0\background.pdb

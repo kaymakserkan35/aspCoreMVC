@@ -1,0 +1,37 @@
+﻿
+@using System.Collections;
+@model List<BookModel>;
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+
+    <button asp-controller="Books" asp-action="CreateBook"> createbook   </button>
+    <table class="table">
+
+        <thead>
+            <tr>
+                <th>Id </th>
+                <th>Title </th>
+
+
+            </tr>
+        </thead>
+
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>  @book.Id   </td>
+                <td>  @book.Title   </td>
+
+
+            </tr>
+        }
+
+    </table>
+
+</body>
+</html>

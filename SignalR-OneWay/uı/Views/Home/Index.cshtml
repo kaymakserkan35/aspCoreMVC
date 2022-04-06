@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<button onclick="ClientToServer()"></button>
+<div id="mydiv" class="text-center">
+
+</div>
+
+<script src="~/lib/signalr/dist/browser/signalr.js"></script>
+<script>
+
+    var connection = new signalR.HubConnectionBuilder().withUrl("/myhub").build();
+    function ConnnectToHub() {
+     
+        this.connection.start().then(function () { });
+    }
+    function ClientToServer() {
+        this.connection.invoke("servermethod").catch(function (err) { }); // client to server
+    }
+
+    connection.on("clientmethod", function () { document.getElementById("mydiv").innerHTML += "*" }); // server to client
+
+    function serverToClient() {
+        this.connection.on("clientmethod", function () { document.getElementById("mydiv").innerHTML += "*" }); // server to client
+    }
+
+    ConnnectToHub();
+    ClientToServer();
+
+
+
+</script>

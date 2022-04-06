@@ -1,0 +1,12 @@
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\bin\Debug\net5.0\myApp.core.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\bin\Debug\net5.0\myApp.core.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\bin\Debug\net5.0\ref\myApp.core.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\bin\Debug\net5.0\myApp.core.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\obj\Debug\net5.0\myApp.core.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\obj\Debug\net5.0\myApp.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\obj\Debug\net5.0\myApp.core.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\obj\Debug\net5.0\myApp.core.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\obj\Debug\net5.0\myApp.core.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\obj\Debug\net5.0\myApp.core.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\obj\Debug\net5.0\ref\myApp.core.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\asp.coreMVC-dersleri\HowToUse\optionspattern\myApp\myApp.core\obj\Debug\net5.0\myApp.core.pdb

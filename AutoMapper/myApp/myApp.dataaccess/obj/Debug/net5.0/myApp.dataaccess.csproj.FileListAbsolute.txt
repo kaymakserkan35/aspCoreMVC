@@ -1,0 +1,108 @@
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\bin\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\obj\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp - Copy\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\bin\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\obj\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\şablon-myApp sorun var\myApp 2\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\obj\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\bin\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\myApp-Autofac İmplentasyonu\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.genruntimeconfig.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.deps.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.runtimeconfig.dev.json
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\bin\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\bin\Debug\net5.0\myApp.entitiy.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csprojAssemblyReference.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfoInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.AssemblyInfo.cs
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.csproj.CopyComplete
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\obj\Debug\net5.0\ref\myApp.dataaccess.dll
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.pdb
+C:\Users\onurk\OneDrive\Desktop\asp.coreMVC dersleri\AutoMapper\myApp\myApp.dataaccess\obj\Debug\net5.0\myApp.dataaccess.genruntimeconfig.cache
